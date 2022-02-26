@@ -18,7 +18,9 @@ RSpec 3.11
   - rspec-mocks 3.11.0
   - rspec-support 3.11.0
 ```
-If you are missing either of these you can check out the documentation for [Ruby](https://www.ruby-lang.org/en/documentation/installation/) To add RSpec you can run
+If you are missing Ruby, check out the [documentation](https://www.ruby-lang.org/en/documentation/installation/) 
+
+To add RSpec run:
 ```
 $ gem install rspec
 ```
