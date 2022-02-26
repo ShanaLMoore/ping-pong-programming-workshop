@@ -14,10 +14,16 @@
 # write the code to make them pass, incrementally. 
 # Then move onto implementing the other specs and code for the methods listed above, per the PPP principles.
 # Don't forget to think about any edge cases. (HINT for division - what should the user expect when they divide by zero?)
+
 # slide deck: https://docs.google.com/presentation/d/17tLRoC7_LP1q9hSF-4B0g3nKrTQXKo3qUI3VlIMaxC8/edit?usp=sharing
+
+# HELPFUL RESOURCES
+# RSpec tutorial: https://www.tutorialspoint.com/rspec/rspec_basic_syntax.htm
+# Relish: https://relishapp.com/rspec/
+
  
 # class Calculator
-#   def add(a, b)
+#   def add
 
 #   end
 # end
