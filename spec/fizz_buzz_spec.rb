@@ -1,0 +1,1 @@
+require './lib/fizz_buzz.rb'
