@@ -1,4 +1,4 @@
-# simple-calculator
+# Ping Pong Programming Workshop
 
 A [Ping-Pong Programming](https://docs.google.com/presentation/d/17tLRoC7_LP1q9hSF-4B0g3nKrTQXKo3qUI3VlIMaxC8/edit#slide=id.gddc2ffc602_3_308) Workshop demo/exercise 
 
@@ -27,5 +27,6 @@ $ gem install rspec
 ## Instructions
 1. Clone this project
 2. Run bundle
-3. Open lib/calculator.rb in your editor of choice for the project's instructions
-4. Run specs ```rspec spec/calculator_spec.rb```
+3. Start with the calculator challegne. Open lib/calculator.rb in your editor of choice for instructions.
+4. Run specs, like: ```rspec spec/calculator_spec.rb```
+5. If you have more time, move onto other code challenges found within the lib folder. 
