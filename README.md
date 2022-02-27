@@ -37,8 +37,8 @@ $ gem install bundler
 ```
 
 ## Instructions
-1. Clone this project
-2. Run bundle
+1. Clone this project. cd into the project.
+2. Run ```bundle install```
 3. Start with the calculator challegne. Open lib/calculator.rb in your editor of choice for instructions.
 4. Run specs, like: ```rspec spec/calculator_spec.rb```
 5. If you have more time, move onto other code challenges found within the lib folder. 
