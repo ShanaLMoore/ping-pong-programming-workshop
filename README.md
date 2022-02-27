@@ -9,7 +9,7 @@ Make sure you have ruby and RSpec installed. You can check that is the case by r
 $ ruby -v
 ruby 3.0.0p0 (2020-12-25 revision 95aff21468) [x86_64-darwin20]
 ```
-and
+Rspec
 ```
 $ rspec -v
 RSpec 3.11
@@ -18,12 +18,24 @@ RSpec 3.11
   - rspec-mocks 3.11.0
   - rspec-support 3.11.0
 ```
+and Bundler
+```
+$ bundler -v
+Bundler version 2.2.26
+```
+
 If you are missing Ruby, check out the [documentation](https://www.ruby-lang.org/en/documentation/installation/) 
 
 To add RSpec run:
 ```
 $ gem install rspec
 ```
+
+To add [Bundler](https://bundler.io/) run: 
+```
+$ gem install bundler
+```
+
 ## Instructions
 1. Clone this project
 2. Run bundle
