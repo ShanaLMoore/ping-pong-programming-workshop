@@ -1,6 +1,6 @@
 # Ping Pong Programming Workshop
 
-A [Ping-Pong Programming](https://docs.google.com/presentation/d/17tLRoC7_LP1q9hSF-4B0g3nKrTQXKo3qUI3VlIMaxC8/edit#slide=id.gddc2ffc602_3_308) Workshop demo/exercise 
+A [Ping-Pong Programming](https://docs.google.com/presentation/d/17tLRoC7_LP1q9hSF-4B0g3nKrTQXKo3qUI3VlIMaxC8/edit?usp=sharing) Workshop demo/exercise 
 
 ## Prerequisities
 
