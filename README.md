@@ -41,7 +41,7 @@ $ gem install bundler
 2. Run ```bundle install```
 3. Start with the calculator challenge. Open lib/calculator.rb in your editor of choice for instructions.
 4. Run specs, like: ```rspec spec/calculator_spec.rb```
-5. If you have more time, move onto other code challenges found within the lib folder, or find and add your own! 
+5. If you have more time, move onto other code challenges found within the lib folder or find and add your own! 
 
 ## Remote Collaboration Tools
 Everyone should at least install [VS Code](https://code.visualstudio.com/download) + Vs Code's [Live Share](https://code.visualstudio.com/learn/collaboration/live-share). It's free. 
